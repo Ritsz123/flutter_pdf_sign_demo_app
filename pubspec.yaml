@@ -37,6 +37,7 @@ dependencies:
   syncfusion_flutter_pdf: ^20.2.48
   path_provider: ^2.0.11
   dio: ^4.0.6
+  fl_chart: ^0.55.2
 
 dev_dependencies:
   flutter_test:
